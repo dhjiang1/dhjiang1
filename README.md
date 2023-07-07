@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJuNjNheGxxeXVxbGN1eDlhYWxpeWptd3M2bzF1MXl1bDBxd29wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJuNjNheGxxeXVxbGN1eDlhYWxpeWptd3M2bzF1MXl1bDBxd29wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
   
   <div id="badges">
-  <a href="www.linkedin.com/in/~darrenjiang" target="_blank">
+  <a href="https://www.linkedin.com/in/~darrenjiang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://darrenjiang.vercel.app/" target="_blank">

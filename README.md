@@ -37,8 +37,9 @@ I'm a Product Manager and Software Engineer <img src="https://media.giphy.com/me
   
 - :ok_man: The average delusional sports fan :basketball: and nocturnal gamer :video_game:
 
-- :mailbox:Say hi! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darrenj1ang) [![Email Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](darren.jiang135@gmail.com)
-
+- :mailbox:Say hi! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darrenj1ang)   <a href="mailto: darren.jiang135@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -16,12 +16,13 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 
-  <h1>
-    hey there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></summary>
+  </ul>
 </div>
 
+</div>
 </div>
 
 ---

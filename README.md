@@ -28,7 +28,7 @@
 ---
 
 ### :technologist: About Me :
-I'm a Product Manager and Software Engineer from Toronto. <img src="https://media.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="35">
+I'm a Product Manager and Software Engineer <img src="https://media.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="35"> from Toronto :canada:.
 - :chart_with_upwards_trend: Currently working as a Data Analyst working with Hadoop and Hive in the migration of an Enteprise Data Lake
 
 - :mag_right: Searching for new and exicting opportunities to challenge the status quo and ask "why?"

@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJuNjNheGxxeXVxbGN1eDlhYWxpeWptd3M2bzF1MXl1bDBxd29wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJuNjNheGxxeXVxbGN1eDlhYWxpeWptd3M2bzF1MXl1bDBxd29wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/~darrenjiang" target="_blank">
+  <a href="www.linkedin.com/in/darrenj1ang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://darrenjiang.vercel.app/" target="_blank">
@@ -37,7 +37,7 @@ I'm a Product Manager and Software Engineer from Toronto. <img src="https://medi
   
 - :ok_man: The average delusional sports fan :basketball: and nocturnal gamer :video_game:
 
-- :mailbox:Say hi! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/~darrenjiang) [![Email Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](darren.jiang135@gmail.com)
+- :mailbox:Say hi! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/darrenj1ang) [![Email Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](darren.jiang135@gmail.com)
 
 ---
 
